@@ -6,3 +6,7 @@ Datasets used:
 2) 'BreaKHis' for primary and finegrain classifications
 
 The motivation of the project work is to develop a model which is capable for learning multi tasks at the same instant of time using very few images for training.
+
+The jupyter notebook named "git_mtl2_enetb0_m1_Multitask_Few_shot_Breakhis.ipynb" contains codes for tuning and re-training the previously trained "EfficientB0" on BreaKHis dataset for 2 class (Primary) classification and 8 class (Finegrain) classification.
+
+10 iamges
