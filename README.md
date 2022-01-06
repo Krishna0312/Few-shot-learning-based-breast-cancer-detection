@@ -7,7 +7,7 @@ Datasets used:
 
 The motivation of the project work is to develop a model which is capable for learning multi tasks at the same instant of time using very few images for training.
 
-The notebook named **N**  contains code to train the base model on the _ICIAR_ dataset for 2 classes (i.e. Benign and Malignant)
+The notebook named **k_iciar_enetb0_m1_Multitask_Few_shot_Breakhis.ipynb**  contains code to train the base model on the _ICIAR_ dataset for 2 classes (i.e. Benign and Malignant)
 
 > Model1.h5 is pretrained on the 'ICIAR'.
 
