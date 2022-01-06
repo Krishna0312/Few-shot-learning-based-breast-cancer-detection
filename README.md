@@ -15,3 +15,4 @@ The jupyter notebook named **_git_mtl2_enetb0_m1_Multitask_Few_shot_Breakhis.ipy
 
 > mtl2_enetb0_m1 folder contains Keras model which is trained on the BreaKHis for multi-tasking. 
 
+[Comparison paper link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6390493/.org)
